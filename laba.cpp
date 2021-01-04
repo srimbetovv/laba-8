@@ -7,7 +7,7 @@
 
 using namespace std;
 
-void showMenu() {
+void show() {
     cout << "\t\t\t\t1 - Пополнить баланс" << endl;
     cout << "\t\t\t\t2 - Снять со счёта" << endl;
     cout << "\t\t\t\t3 - Показать баланс" << endl;
